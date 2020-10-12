@@ -1,5 +1,5 @@
 # Simple Laptop Website Mockup
-
+[View the Website](https://quizzical-snyder-34f48b.netlify.app/)
 ---
 
 ## A website for a fictional company named **"ThirtyTwo"** showing their latest laptop.
